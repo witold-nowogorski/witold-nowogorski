@@ -1,6 +1,8 @@
 ### About Me
 
 I am a software engineer focused on building and optimizing production-grade AI systems. My background spans the full development lifecycle - from designing core algorithmic data pipelines and multi-agent orchestrations to rigorous system evaluation.
+
+My expertise includes:
 - Agentic AI workflows
 - LLM orchestration
 - Retrieval Augmented Generation
