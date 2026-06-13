@@ -21,7 +21,7 @@ My expertise includes:
 - [![GoWork](https://img.shields.io/badge/GoWork-FF4A00?style=for-the-badge&logo=handshake&logoColor=white)](https://www.gowork.pl/witold-nowogorski,27360579/dane-kontaktowe-firmy)
 
 ### 💼 B2B Cooperation
-Available for B2B contracts globally. You can verify my registered sole proprietorship via the official Polish Central Register (CEIDG) or the EU VIES system using my tax identification number:
+Available for B2B contracts globally. You can verify my registered sole proprietorship via the official [Polish Central Register (CEIDG)](https://regon24.pl/en/search?nip=PL7343670005) or the EU VIES system using my tax identification number:
 * **NIP (VAT ID):** `PL7343670005` * **REGON:** `544604700`
 
 
