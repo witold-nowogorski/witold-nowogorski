@@ -1,16 +1,19 @@
-## Hi there 👋
+#### About Me
 
-<!--
-**witold-nowogorski/witold-nowogorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer specializing in AI/ML solutions, my expertise includes:
+- Agentic AI workflows
+- LLM orchestration
+- Retrieval Augmented Generation
+- Vector Databases, Graph Databases, Information Retrieval
+- Generative AI evaluation & benchmarking
+- Classical Machine Learning & Deep Learning
+- Natural Language Processing
 
-Here are some ideas to get you started:
+#### Links
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wnowogorski/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c94c8bc7d094d84f)
+
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/witoldnowogrski)
+
+
