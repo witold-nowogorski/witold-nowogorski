@@ -1,4 +1,4 @@
-#### About Me
+### About Me
 
 I'm a software engineer specializing in AI/ML solutions, my expertise includes:
 - Agentic AI workflows
@@ -9,11 +9,15 @@ I'm a software engineer specializing in AI/ML solutions, my expertise includes:
 - Classical Machine Learning & Deep Learning
 - Natural Language Processing
 
-#### Links
+### Links
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wnowogorski/)
 
 - [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c94c8bc7d094d84f)
 
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/witoldnowogrski)
+
+### 💼 B2B Cooperation
+Available for B2B contracts globally. You can verify my registered sole proprietorship via the official Polish Central Register (CEIDG) or the EU VIES system using my tax identification number:
+* **NIP (VAT ID):** `PL7343670005` * **REGON:** `544604700`
 
 
