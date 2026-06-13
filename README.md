@@ -1,6 +1,6 @@
 ### About Me
 
-I am a software engineer focused on building and optimizing production-grade AI systems. My background spans the full development lifecycle - from designing core algorithmic data pipelines and multi-agent orchestrations to rigorous system evaluation.
+I am a software engineer focused on building and optimizing production-grade AI systems. My background spans the full development lifecycle - from designing core algorithmic data pipelines and multi-agent orchestrations to rigorous system evaluation. Currently, my primary engagement is a B2B contract via [emagine](https://emagine.org), where I deliver enterprise solutions for a Tier 1 financial institution.
 
 My expertise includes:
 - Agentic AI workflows
