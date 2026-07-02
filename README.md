@@ -13,7 +13,7 @@ My expertise includes:
 
 ### Links
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wnowogorski/)
-- 
+  
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/witoldnowogrski)
 
 - [![GoWork](https://img.shields.io/badge/GoWork-FF4A00?style=for-the-badge&logo=handshake&logoColor=white)](https://www.gowork.pl/witold-nowogorski,27360579/dane-kontaktowe-firmy)
